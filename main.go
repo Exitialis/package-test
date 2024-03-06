@@ -9,6 +9,10 @@ import (
 	"github.com/pkg/errors"
 )
 
+func Add(a, b int) int {
+	return a + b
+}
+
 func main() {
 	name := names.New("test")
 	err := errors.New("test")

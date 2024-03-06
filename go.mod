@@ -1,4 +1,4 @@
-module ipneschadin/learning-artem
+module github.com/Exitialis/package-test
 
 go 1.22.0
 

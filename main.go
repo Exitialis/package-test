@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"ipneschadin/learning-artem/internal/calculator"
-	"ipneschadin/learning-artem/internal/names"
+
+	"github.com/Exitialis/package-test/internal/calculator"
+	"github.com/Exitialis/package-test/internal/names"
 
 	"github.com/pkg/errors"
 )

@@ -19,4 +19,5 @@ func main() {
 	fmt.Println(err)
 	fmt.Println(calculator.Add(10, 20))
 	fmt.Println("Hello " + name.ToString())
+	fmt.Println("update")
 }

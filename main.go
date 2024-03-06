@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/Exitialis/package-test/internal/calculator"
-	"github.com/Exitialis/package-test/internal/names"
+	"github.com/Exitialis/package-test/calculator"
+	"github.com/Exitialis/package-test/names"
 
 	"github.com/pkg/errors"
 )
